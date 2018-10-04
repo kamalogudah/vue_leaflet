@@ -1,15 +1,6 @@
 <template>
   <div id="app">
-     <div id="app" class="container">
-      <div class="row">
-        <div class="col-md-9">
-          <Map></Map>
-        </div>
-        <div class="col-md-3">
-          <!-- The layer checkboxes go here -->
-        </div>
-      </div>
-    </div>
+     <Map></Map>
   </div>
 </template>
 
